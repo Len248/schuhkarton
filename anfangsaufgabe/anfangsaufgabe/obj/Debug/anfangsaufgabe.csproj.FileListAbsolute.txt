@@ -1,0 +1,7 @@
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\obj\Debug\anfangsaufgabe.csprojAssemblyReference.cache
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\obj\Debug\anfangsaufgabe.csproj.CoreCompileInputs.cache
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\bin\Debug\anfangsaufgabe.exe.config
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\bin\Debug\anfangsaufgabe.exe
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\bin\Debug\anfangsaufgabe.pdb
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\obj\Debug\anfangsaufgabe.exe
+C:\Users\PlanB-Praktikant\source\repos\anfangsaufgabe\anfangsaufgabe\obj\Debug\anfangsaufgabe.pdb
